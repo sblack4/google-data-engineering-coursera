@@ -3,10 +3,10 @@ by @sblack4 following [this Coursera specialization](https://www.coursera.org/sp
 
 This specialization is organized into five courses;
 
-## 1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](Course1.md)
+## 1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](gcp-fundamentals.md)
 
 
-## 2. Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform
+## 2. [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform](leveraging-unstructured-data.md)
 
 ## 3. Serverless Data Analysis with Google BigQuery and Cloud Dataflow
 
