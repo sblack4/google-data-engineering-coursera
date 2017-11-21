@@ -24,10 +24,10 @@ In this lab, you will run Pig and Spark programs on a Dataproc cluster.
 What you learn
 In this lab, you:
 
-SSH into the cluster to run Pig and Spark job
-Create a Cloud Storage bucket to store job input files
-Work with HDFS
-Begin the lab
+* SSH into the cluster to run Pig and Spark job
+* Create a Cloud Storage bucket to store job input files
+* Work with HDFS
+Begin the lab 
 https://codelabs.developers.google.com/codelabs/cpb102-running-pig-spark/
 
 #### Lab 2b: Running Dataproc jobs
@@ -36,11 +36,11 @@ In this lab, you will create a Dataproc cluster. You will then submit some jobs 
 What you learn
 In this lab, you:
 
-Create a Cloud Storage bucket to store job input, output and application files
-Submit jobs using the Web Console
-Submit jobs using the CLI
-Monitor job progress and view results
-Begin the lab
+* Create a Cloud Storage bucket to store job input, output and application files
+* Submit jobs using the Web Console
+* Submit jobs using the CLI
+* Monitor job progress and view results
+Begin the lab 
 https://codelabs.developers.google.com/codelabs/cpb102-running-dataproc-jobs/
 
 ## Module 3: Leveraging GCP
@@ -51,10 +51,10 @@ In this lab, you will create a Dataproc cluster that includes Datalab and the Go
 What you learn
 In this lab, you:
 
-Create a Dataproc cluster with an Initialization Action that installs Google Cloud Datalab
-Run Jupyter Notebooks on the Dataproc cluster using Google Cloud Datalab
-Create Python and PySpark jobs that utilize Google Cloud Storage, BigQuery and Spark.
-Begin the lab
+* Create a Dataproc cluster with an Initialization Action that installs Google Cloud Datalab
+* Run Jupyter Notebooks on the Dataproc cluster using Google Cloud Datalab
+* Create Python and PySpark jobs that utilize Google Cloud Storage, BigQuery and Spark.
+* Begin the lab 
 https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp/ 
 
 ## Module 4: Analyzing Unstructured Data
@@ -65,9 +65,9 @@ In this lab, you integrate the machine learning APIs into your data analysis. Yo
 What you learn
 In this lab, you: ...
 
-Enable the Google Cloud Platform machine learning APIs
-Find specific text in a corpus of scanned documents
-Translate a book from English to Spanish using the Translate API
-Perform sentiment analysis on text resulting from a BigQuery query
-Begin the lab
+* Enable the Google Cloud Platform machine learning APIs
+* Find specific text in a corpus of scanned documents
+* Translate a book from English to Spanish using the Translate API
+* Perform sentiment analysis on text resulting from a BigQuery query
+Begin the lab 
 https://codelabs.developers.google.com/codelabs/cpb102-machine-learning-to-big-data-processing/
