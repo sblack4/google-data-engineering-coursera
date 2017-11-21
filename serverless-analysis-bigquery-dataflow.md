@@ -14,6 +14,15 @@ Basically, this course is as the title says it is.
 * Fully managed, "cluster free" 
 * Imutable audit logs 
 * Can share queries 
+* Columnar 
+
+Example Architecture:  
+
+![](static/example_arch.PNG)
+
+How Access controll, etc works 
+
+![](static/project_structure.PNG)
 
 #### Lab: Advanced Capabilities
 
