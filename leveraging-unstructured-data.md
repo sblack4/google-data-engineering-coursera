@@ -16,9 +16,46 @@ In this lab, you:
 Begin the lab
 [https://codelabs.developers.google.com/codelabs/cpb102-creating-dataproc-clusters/](https://codelabs.developers.google.com/codelabs/cpb102-creating-dataproc-clusters/)
 
-## Module 2: Running Dataproc jobs
+## Module 2: Running Jobs
+
+#### Lab 2a: Running Pig and Spark programs
+In this lab, you will run Pig and Spark programs on a Dataproc cluster.
+
+What you learn
+In this lab, you:
+
+SSH into the cluster to run Pig and Spark job
+Create a Cloud Storage bucket to store job input files
+Work with HDFS
+Begin the lab
+https://codelabs.developers.google.com/codelabs/cpb102-running-pig-spark/
+
+#### Lab 2b: Running Dataproc jobs
+In this lab, you will create a Dataproc cluster. You will then submit some jobs to the cluster using the Web Console and the CLI. You will also monitor job progress, view job details and view the results of jobs.
+
+What you learn
+In this lab, you:
+
+Create a Cloud Storage bucket to store job input, output and application files
+Submit jobs using the Web Console
+Submit jobs using the CLI
+Monitor job progress and view results
+Begin the lab
+https://codelabs.developers.google.com/codelabs/cpb102-running-dataproc-jobs/
 
 ## Module 3: Leveraging GCP
+
+#### Lab Overview: Leveraging Google Cloud Platform Services
+In this lab, you will create a Dataproc cluster that includes Datalab and the Google Python Client API. You will then create iPython notebooks that integrate with BigQuery and storage and utilize Spark.
+
+What you learn
+In this lab, you:
+
+Create a Dataproc cluster with an Initialization Action that installs Google Cloud Datalab
+Run Jupyter Notebooks on the Dataproc cluster using Google Cloud Datalab
+Create Python and PySpark jobs that utilize Google Cloud Storage, BigQuery and Spark.
+Begin the lab
+https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp/ 
 
 ## Module 4: Analyzing Unstructured Data
 
