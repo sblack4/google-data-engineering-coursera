@@ -59,3 +59,15 @@ https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp/
 
 ## Module 4: Analyzing Unstructured Data
 
+#### Lab: Adding Machine Learning to Big Data Processing
+In this lab, you integrate the machine learning APIs into your data analysis. You will write the code to use the Speech, Vision, Translate and Natural Language APIs. You will see how to execute these APIs on your Spark clusters. You will also integrate these services with BigQuery and Storage.
+
+What you learn
+In this lab, you: ...
+
+Enable the Google Cloud Platform machine learning APIs
+Find specific text in a corpus of scanned documents
+Translate a book from English to Spanish using the Translate API
+Perform sentiment analysis on text resulting from a BigQuery query
+Begin the lab
+https://codelabs.developers.google.com/codelabs/cpb102-machine-learning-to-big-data-processing/
