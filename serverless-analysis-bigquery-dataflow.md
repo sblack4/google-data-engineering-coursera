@@ -24,6 +24,29 @@ How Access controll, etc works
 
 ![](static/project_structure.PNG)
 
+#### Lab 1a: Building a BigQuery Query
+In this lab, you learn how to build up a complex BigQuery using clauses, subqueries, built-in functions and joins.  
+
+What you need  
+
+To complete this lab, you need:  
+
+Access to a supported Internet browser:  
+
+The latest version of Google Chrome, Firefox, or Microsoft Edge
+Microsoft Internet Explorer 11+
+Safari 8+ (Safari private mode is not supported)
+A Google Cloud Platform project  
+
+What you learn  
+
+In this lab, you:  
+
+* Create and run a query
+* Modify the query to add clauses, subqueries, built-in functions and joins.   
+Begin the lab
+https://codelabs.developers.google.com/codelabs/cpb101-bigquery-query/
+
 #### Lab: Advanced Capabilities
 
 
