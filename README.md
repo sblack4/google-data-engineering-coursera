@@ -10,6 +10,6 @@ This specialization is organized into five courses;
 
 ## 3. [Serverless Data Analysis with Google BigQuery and Cloud Dataflow](serverless-analysis-bigquery-dataflow.md)
 
-## 4. Serverless Machine Learning with Tensorflow on Google Cloud Platform
+## 4. [Serverless Machine Learning with Tensorflow on Google Cloud Platform](serverless-ml-tensorflow.md)
 
 ## 5. Building Resilient Streaming Systems on Google Cloud Platform
