@@ -47,7 +47,7 @@ https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/
 ## Module 2: Building ML models with Tensorflow
 
 [**Tensorflow**](https://www.tensorflow.org/) 
-* Data flow graphs
+* Data flow graphs - separate construction and execution 
 * Portable (C++)
 
 ![](static/tensorflow_hierarchy.png)
@@ -65,6 +65,7 @@ https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.h
 
 Note: You should only complete Parts 1-5 of this Codelab and then return to this course.
 
+
 #### Machine Learning using tf.learn 
 In this lab, you will implement a simple machine learning model using tf.learn:
 
@@ -79,6 +80,19 @@ Begin the Lab
 https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=#6
 
 Note: Only complete Part 7 of the Codelab and then return to this course.
+
+
+#### TensorFlow on Big Data 
+In this lab, you will learn how to:
+
+* Read from a potentially large file in batches
+* Do a wildcard match on filenames
+* Break the one-to-one relationship between inputs and features  
+ 
+Begin the Lab 
+https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=#7
+
+Note: Only complete Part 8 of the Codelab and then return to this course.
 
 ## Module 3: Scaling ML models with Cloud ML Engine
 
