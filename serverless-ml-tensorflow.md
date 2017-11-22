@@ -43,9 +43,42 @@ A Google Cloud Platform project (if not, please sign up for a free trial and com
 Begin the lab
 https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/
 
-Note: You should only complete Parts 1-5 of this Codelab and then return to this course.
 
 ## Module 2: Building ML models with Tensorflow
+
+[**Tensorflow**](https://www.tensorflow.org/) 
+* Data flow graphs
+* Portable (C++)
+
+![](static/tensorflow_hierarchy.png)
+
+#### Getting Started with Tensorflow 
+In this lab, you will learn the following on how the TensorFlow Python API works:
+
+* Building a graph
+* Running a graph
+* Feeding values into a graph
+* Find area of a triangle using TensorFlow   
+
+Begin the Lab 
+https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=#5
+
+Note: You should only complete Parts 1-5 of this Codelab and then return to this course.
+
+#### Machine Learning using tf.learn 
+In this lab, you will implement a simple machine learning model using tf.learn:
+
+* Read .csv data into a Pandas dataframe
+* Implement a Linear Regression model in TensorFlow
+* Train the model
+* Evaluate the model
+* Predict with the model
+* Repeat with a Deep Neural Network model in TensorFlow  
+
+Begin the Lab
+https://codelabs.developers.google.com/codelabs/dataeng-machine-learning/index.html?index=#6
+
+Note: Only complete Part 7 of the Codelab and then return to this course.
 
 ## Module 3: Scaling ML models with Cloud ML Engine
 

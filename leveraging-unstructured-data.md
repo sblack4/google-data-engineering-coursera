@@ -12,7 +12,7 @@ In this lab, you:
 * Create a Dataproc cluster from the Web console
 * SSH into the cluster and run PySpark jobs
 * Add a firewall rule that allows access to your cluster from the browser
-* Create, manage and delete Dataproc clusters from the CLI
+* Create, manage and delete Dataproc clusters from the CLI   
 Begin the lab
 [https://codelabs.developers.google.com/codelabs/cpb102-creating-dataproc-clusters/](https://codelabs.developers.google.com/codelabs/cpb102-creating-dataproc-clusters/)
 
@@ -26,7 +26,7 @@ In this lab, you:
 
 * SSH into the cluster to run Pig and Spark job
 * Create a Cloud Storage bucket to store job input files
-* Work with HDFS
+* Work with HDFS  
 Begin the lab 
 https://codelabs.developers.google.com/codelabs/cpb102-running-pig-spark/
 
@@ -39,7 +39,7 @@ In this lab, you:
 * Create a Cloud Storage bucket to store job input, output and application files
 * Submit jobs using the Web Console
 * Submit jobs using the CLI
-* Monitor job progress and view results
+* Monitor job progress and view results  
 Begin the lab 
 https://codelabs.developers.google.com/codelabs/cpb102-running-dataproc-jobs/
 
@@ -53,8 +53,8 @@ In this lab, you:
 
 * Create a Dataproc cluster with an Initialization Action that installs Google Cloud Datalab
 * Run Jupyter Notebooks on the Dataproc cluster using Google Cloud Datalab
-* Create Python and PySpark jobs that utilize Google Cloud Storage, BigQuery and Spark.
-* Begin the lab 
+* Create Python and PySpark jobs that utilize Google Cloud Storage, BigQuery and Spark.  
+Begin the lab  
 https://codelabs.developers.google.com/codelabs/cpb102-dataproc-with-gcp/ 
 
 ## Module 4: Analyzing Unstructured Data
@@ -68,6 +68,6 @@ In this lab, you: ...
 * Enable the Google Cloud Platform machine learning APIs
 * Find specific text in a corpus of scanned documents
 * Translate a book from English to Spanish using the Translate API
-* Perform sentiment analysis on text resulting from a BigQuery query
+* Perform sentiment analysis on text resulting from a BigQuery query  
 Begin the lab 
 https://codelabs.developers.google.com/codelabs/cpb102-machine-learning-to-big-data-processing/
